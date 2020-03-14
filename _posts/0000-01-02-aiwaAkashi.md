@@ -1,5 +1,5 @@
 ---
 layout: default
 title: トップページ
-hoge:hoge
+description: metaタグで見れる
 ---
