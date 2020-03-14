@@ -1,6 +1,9 @@
 ---
-layout: slide
-title: "２枚目のスライドにようこそ！"
+layout: default
+title: トップページ
 ---
-置き換え
-戻るには戻るボタンを使いましょう！
+
+# トップページです
+
+* hoge
+* huga
